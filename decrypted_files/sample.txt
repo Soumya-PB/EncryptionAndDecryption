@@ -1,0 +1,5 @@
+Welcome to Secure Cryptography Tool.
+
+This file will be encrypted using AES encryption.
+
+Python Tkinter Project.

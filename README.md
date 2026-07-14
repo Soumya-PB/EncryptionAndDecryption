@@ -192,6 +192,14 @@ Decrypted files are stored in
 ```
 decrypted_files/
 ```
+## Screenshots
+<img width="1105" height="906" alt="Screenshot 2026-07-10 222200" src="https://github.com/user-attachments/assets/ee74000a-2fc3-4072-bd48-117b92645184" />
+
+<img width="1091" height="900" alt="Screenshot 2026-07-10 224558" src="https://github.com/user-attachments/assets/38c26e0f-38bd-4b80-bcd7-cb1f87a10470" />
+
+<img width="763" height="617" alt="Screenshot 2026-07-10 230027" src="https://github.com/user-attachments/assets/b2f6caee-a1df-48c5-96a4-80e2675be81b" />
+
+<img width="1233" height="997" alt="image" src="https://github.com/user-attachments/assets/c11ba231-259d-4b5d-bc53-853fbd7e06fb" />
 
 ---
 
